@@ -1,0 +1,135 @@
+/*-------------- Begining line Css-------- */
+.contain{
+    height:10px;
+    background-color: #0ca1a1;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+/*--------------- Heading Css----------------*/
+.title{
+    /* text-align: center; */
+    font-size: 50px;
+    color: #0ca1a1;
+    margin-left: 3%;
+}
+.inner-top{
+    position: absolute;
+    font-size: 20px;
+    color: black;
+    margin-left: 150px;
+    background-color: burlywood;
+    padding: 2px;
+
+}
+/*---------- Nav bar css------------*/
+.nav-bar{
+    list-style-type: none;
+    margin-left: 3%;
+    padding: 0;
+}
+
+.menu{
+    display: inline;
+    float: left;
+    padding: 5px;
+    margin: 5px;
+    
+}
+.menu a{
+    color: #0ca1a1;
+}
+
+li:hover{
+        background-color: bisque;
+        color: brown;
+}
+/*------------- Image formating css--------*/
+.img1{
+    width: 90%;
+    height: 400px;
+    margin-left: 3%;
+    padding:20px;
+    text-align: center;
+    align-items: center;
+}
+/*--------------- text css ---------------*/
+.text{
+    font-size: 20px;
+    padding: 10px;
+    margin-left: 3%;
+}
+
+.text2{
+    font-size: 20px;
+    margin-left: 3%;
+    text-align: justify;
+}
+
+/*---------- Order list --------*/
+.orderli{
+    font-size: 20px;
+    margin-left: 3%;
+}
+
+/*-----------unorder list---------*/
+.unordeli{
+    font-size: 20px;
+    margin-left: 3%;
+}
+/*----------------second border-------------*/
+.contain1{
+    width: 40%;
+    height: 5px;
+    margin-left: 3%;
+    background-color: #0ca1a1;
+}
+
+/*---------------Second Title----------------*/
+h4{
+    color: #0ca1a1;
+    font-size: 20px;
+    margin-left: 180px;
+}
+/*-------------Realted post----------*/
+.related{
+    font-size: 20px;
+    color: #0ca1a1;
+    text-decoration: none;
+    
+}
+.tagname{
+    font-size: 20px;
+}
+.btn{
+    position: relative;
+    border: 1px solid black;
+    width:100px;
+    height: 50px;
+    background-color: whitesmoke;
+    padding: 10px;
+    margin-left: 900px;
+}
+.btn p{
+    text-align: center;
+}
+
+/*-----------------Footer---------------*/
+
+.footer{
+    position: relative;
+    width:40%;
+    height:5px;
+    margin-left: 3%;
+    background-color: #0ca1a1;
+} 
+.bottom{
+    margin: 0;
+    font-weight: bold;
+    margin-bottom: 40px;
+    margin-left: 3%;
+}
+
+.post{
+    display: inline-block;
+
+} 
